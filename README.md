@@ -9,3 +9,7 @@ meu nome e nyace mirella
   ### Você entra em contato comigo 📫
 
   agostinho.nayce@escola.pr.gov.br
+
+
+
+![](https://media1.tenor.com/m/CzaHhPyIR8gAAAAC/rosy00.gif)
