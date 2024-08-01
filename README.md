@@ -1,8 +1,8 @@
 ## boas vindas ao meu perfil 🖤
 
-meu nome e nyace mirella
+meu nome e nayce mirella
 
-- estou estudando na alura;
+- estou estudando na [alura](https: // www.alura.com.br)
 - esto me desenvolvendo na linguagem javaScript
 - utilizo  esse espaço para minha organização e compartinhamento dos meu projeto densenvolvidos
 
